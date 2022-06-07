@@ -28,6 +28,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'netflix-randomizer-app-c2tm.herokuapp.com',
+    '127.0.0.1',
+    'localhost',
 ]
 
 
