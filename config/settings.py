@@ -27,7 +27,7 @@ SECRET_KEY = os.environ['SECRET_KEY']
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'final-project-c2tm.herokuapp.com',
+    'netflix-randomizer-app-c2tm.herokuapp.com',
 ]
 
 
